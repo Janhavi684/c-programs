@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Janhavi Rai
 ### 💻 C Programmer | Beginner Developer
-📚Learning Web Development
-🚀Currently Working on C Programs
+📚 Learning Web Development
+🚀 Currently Working on C Programs
 
 Welcome to my GitHub profile!
 
-🛠️Skills
+🛠️ Skills
 * C Programing
 * HTML (Basic)
 * CSS
