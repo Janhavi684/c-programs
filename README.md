@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 ## 📌 About Me
 - 🌱 Currently learning C programming
 ## 🚀 My Programs
-- Prime Number
+- Reverse Number
 - Fibonacci Series
 - Armstrong Number
 - Patterns
