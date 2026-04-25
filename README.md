@@ -6,9 +6,9 @@
 Welcome to my GitHub profile!
 
 🛠️Skills
-' C Programing
-. HTML (Basic)
-. CSS
+* C Programing
+* HTML (Basic)
+* CSS
 
 ## 🚀 My Programs
 - Reverse Number
@@ -17,4 +17,4 @@ Welcome to my GitHub profile!
 - Patterns
   
 📫 Connect with me
-. GitHub Profile Link
+* GitHub Profile Link
